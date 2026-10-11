@@ -1,0 +1,6 @@
+{
+  "name": "Babar Patho Lab — Diagnostic Report System",
+  "description": "Clinical pathology report customization, laboratory data entry, and A4 print management system for Babar Patho Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
